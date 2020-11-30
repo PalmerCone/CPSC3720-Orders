@@ -1,2 +1,2 @@
 # CPSC3720-Orders
-API
+API for CU Sports orders
